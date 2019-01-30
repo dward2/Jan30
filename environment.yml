@@ -1,0 +1,5 @@
+name: Jan30env
+dependencies:
+  - pytest
+  - pytest-pep8
+  - pytest-cov
